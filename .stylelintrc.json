@@ -2,8 +2,8 @@
 	"plugins": ["stylelint-scss"],
 	"extends": ["stylelint-config-standard", "@geekcojp/stylelint-config"],
 	"rules": {
-		"declaration-colon-newline-after": "always-multi-line",
-		"value-list-comma-newline-after": "never-multi-line",
+		"declaration-colon-newline-after": null,
+		"value-list-comma-newline-after": null,
 		"indentation": "tab",
 		"string-quotes": "single",
 		"number-leading-zero": "always"
