@@ -3594,7 +3594,7 @@ eslint-plugin-unicorn@^9.1.1:
     reserved-words "^0.1.2"
     safe-regex "^2.0.1"
 
-eslint-plugin-vue-a11y@^0.0.31:
+eslint-plugin-vue-a11y@0.0.31:
   version "0.0.31"
   resolved "https://registry.yarnpkg.com/eslint-plugin-vue-a11y/-/eslint-plugin-vue-a11y-0.0.31.tgz#94f3825e46a57aa4f279a163903f9b883c99af2f"
   integrity sha512-8dqLdIhVtEw7Ux4E3MK0H2LSIgGJ5/eLs3B+0L16ahawo+i66hqviHMF1Uvcc60bkTbuniMtaMWKaBAh62V/nw==
