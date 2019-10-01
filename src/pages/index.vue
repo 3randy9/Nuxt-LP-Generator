@@ -20,8 +20,6 @@
 					GitHub
 				</a>
 			</div>
-			<img src="" alt="" />
-			<button>test</button>
 		</div>
 	</div>
 </template>

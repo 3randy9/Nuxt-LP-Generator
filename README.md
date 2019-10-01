@@ -1,6 +1,6 @@
 # Nuxt-LP-Generator
 
-> My slick Nuxt.js project
+> My Static Page Nuxt.js project(Nuxt.js v2.9.2~)
 
 ## Build Setup
 
