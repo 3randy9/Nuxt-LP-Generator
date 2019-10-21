@@ -23,10 +23,9 @@ module.exports = {
 		'prettier/prettier': [
 			'error',
 			{
-				useTabs: true
+				useTabs: false
 			}
 		],
-		'vue/html-indent': ['error', 'tab'],
 		'vue/html-self-closing': [
 			'error',
 			{
