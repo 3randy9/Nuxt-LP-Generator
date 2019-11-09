@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@nuxtjs/pwa": "3.0.0-beta.19",
-    "destyle.css": "1.0.10",
+    "destyle.css": "1.0.11",
     "nuxt": "2.10.2"
   },
   "devDependencies": {
