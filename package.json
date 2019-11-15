@@ -45,7 +45,7 @@
     "eslint-plugin-vue": "6.0.1",
     "eslint-plugin-vue-a11y": "0.0.31",
     "husky": "3.0.9",
-    "lint-staged": "9.4.2",
+    "lint-staged": "9.4.3",
     "node-sass": "4.13.0",
     "prettier": "1.19.1",
     "sass-loader": "8.0.0",
