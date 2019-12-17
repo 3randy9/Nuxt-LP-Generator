@@ -28,7 +28,7 @@
   "dependencies": {
     "@nuxtjs/pwa": "3.0.0-beta.19",
     "destyle.css": "1.0.11",
-    "nuxt": "2.10.2"
+    "nuxt": "2.11.0"
   },
   "devDependencies": {
     "@geekcojp/stylelint-config": "0.2.5",
