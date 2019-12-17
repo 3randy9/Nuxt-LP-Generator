@@ -1105,13 +1105,13 @@
     glob-all "^3.1.0"
     sass-resources-loader "^2.0.0"
 
-"@nuxtjs/stylelint-module@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/stylelint-module/-/stylelint-module-3.0.1.tgz#45465a1bebae5a13245ec5a40b1a949de32bb648"
-  integrity sha512-7ElJ/O/DL5jIY7bfeeDoYYym/ImBg88rMAC2IT3wMKaDfeqX/KYu6BXTRl406m1MFjQ83yV5EeXBt8V/XX7uIw==
+"@nuxtjs/stylelint-module@3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/stylelint-module/-/stylelint-module-3.1.1.tgz#12faefc8f8be2c36bd6dae1f0305b83920a2143f"
+  integrity sha512-RuvfM2vDU7K3xCie8cBmFEIqlRtS+4Pve5+26VCYzDbK3hBruIbfL8RZ92rFUvbwYBE4IGE2ScDz03X3rK5Awg==
   dependencies:
-    consola "^2.10.1"
-    stylelint-webpack-plugin "^1.0.2"
+    consola "^2.11.0"
+    stylelint-webpack-plugin "^1.1.1"
 
 "@nuxtjs/youch@^4.2.3":
   version "4.2.3"
@@ -8752,6 +8752,14 @@ schema-utils@^2.4.1:
     ajv "^6.10.2"
     ajv-keywords "^3.4.1"
 
+schema-utils@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/schema-utils/-/schema-utils-2.6.1.tgz#eb78f0b945c7bcfa2082b3565e8db3548011dc4f"
+  integrity sha512-0WXHDs1VDJyo+Zqs9TKLKyD/h7yDpHUhEFsM2CzkICFdoX1av+GBq/J2xRTFfsQO5kBfhZzANf2VcIm84jqDbg==
+  dependencies:
+    ajv "^6.10.2"
+    ajv-keywords "^3.4.1"
+
 scriptjs@^2.5.9:
   version "2.5.9"
   resolved "https://registry.yarnpkg.com/scriptjs/-/scriptjs-2.5.9.tgz#343915cd2ec2ed9bfdde2b9875cd28f59394b35f"
@@ -9406,14 +9414,14 @@ stylelint-scss@3.12.1:
     postcss-selector-parser "^6.0.2"
     postcss-value-parser "^4.0.2"
 
-stylelint-webpack-plugin@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/stylelint-webpack-plugin/-/stylelint-webpack-plugin-1.0.2.tgz#51d106bc789d41dbe111d8d28def5c4826a05ef2"
-  integrity sha512-mlpjaHZxTGOvEqeKEIlAJex84KxtQJTNZcVp9lvhTltC2MBqzXxeuqRLqVWTM8bAKSt50GxLpUFsutAoQMffIA==
+stylelint-webpack-plugin@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/stylelint-webpack-plugin/-/stylelint-webpack-plugin-1.1.1.tgz#788fb7462f1e84d8a1c33ba7c7af96f02e3cd8ef"
+  integrity sha512-1yBV1Bhfsl5Sdl1xJUUYveA21bUAqP4nEwtCmtv9x4AsR5SxMaBnYWS31vVr4OqmYn0qKB8hn9lmQqeXv5FOJA==
   dependencies:
     arrify "^2.0.1"
     micromatch "^4.0.2"
-    schema-utils "^2.2.0"
+    schema-utils "^2.6.1"
 
 stylelint@11.1.1:
   version "11.1.1"
