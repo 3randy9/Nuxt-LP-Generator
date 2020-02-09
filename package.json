@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@geekcojp/stylelint-config": "0.2.5",
-    "@nuxtjs/eslint-config": "2.0.0",
+    "@nuxtjs/eslint-config": "2.0.2",
     "@nuxtjs/eslint-module": "1.1.0",
     "@nuxtjs/sitemap": "2.0.1",
     "@nuxtjs/style-resources": "1.0.0",
